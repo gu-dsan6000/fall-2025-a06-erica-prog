@@ -1,8 +1,7 @@
-#!/usr/bin/env python3
 """
 Problem 1 (CLUSTER): Log level distribution over the full dataset in S3.
 
-Reads (from your bucket):
+Reads from the bucket:
   s3a://<SPARK_LOGS_BUCKET without scheme>/data/application_*/*.log
 
 Writes (driver writes via pandas):

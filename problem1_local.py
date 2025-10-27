@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Problem 1 (LOCAL): Log level distribution using the small sample in data/sample/.
 

@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# problem2_local.py
-#
 # Input  : data/sample/application_*/*.log
 # Outputs: data/output/
 #   - problem2_timeline_local.csv

@@ -103,7 +103,7 @@ INFO,17/06/08 20:24:00 INFO broadcast.TorrentBroadcast: Started reading broadcas
 INFO,17/06/09 17:28:28 INFO storage.BlockManager: Found block rdd_4731_28 locally
 ```
 
-From `problem1_summary_local.txt` 
+From `problem1_summary_local.txt`: 
 
 ```
 Environment: LOCAL

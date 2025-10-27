@@ -1,9 +1,4 @@
-#!/usr/bin/env python3
-# problem2_cluster.py
-#
-# Full-cluster version of Problem 2: Cluster Usage Analysis
-#
-# Reads (from your bucket):
+# Reads the bucket:
 #   s3a://<SPARK_LOGS_BUCKET without scheme>/data/application_*/*.log
 #
 # Writes (driver writes via pandas) to data/output/:
@@ -14,10 +9,7 @@
 #   - problem2_density_plot.png
 #
 # Also copies the five files to ~/spark-cluster/ for easy scp.
-#
-# Usage:
-#   uv run python problem2_cluster.py spark://$MASTER_PRIVATE_IP:7077 --net-id YOUR_NET_ID
-#   uv run python problem2_cluster.py --skip-spark   # regenerate plots from existing CSV
+
 
 import os
 import sys
