@@ -1,0 +1,11 @@
+log_level,log_entry
+INFO,17/06/09 12:11:27 INFO broadcast.TorrentBroadcast: Reading broadcast variable 6924 took 2 ms
+INFO,17/06/10 15:31:58 INFO executor.Executor: Running task 2.0 in stage 223.0 (TID 4462)
+INFO,17/06/08 10:42:06 INFO output.FileOutputCommitter: Saved output of task 'attempt_201706081042_1138_m_000038_45558' to hdfs://10.10.34.11:9000/pjhe/test/2/_temporary/0/task_201706081042_1138_m_000038
+INFO,17/06/06 22:04:38 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 1
+INFO,"17/06/09 19:22:51 INFO python.PythonRunner: Times: total = 37, boot = -75, init = 112, finish = 0"
+INFO,17/06/07 16:24:30 INFO output.FileOutputCommitter: Saved output of task 'attempt_201706071620_0096_m_000033_3878' to hdfs://10.10.34.11:9000/pjhe/test/13/_temporary/0/task_201706071620_0096_m_000033
+INFO,17/06/08 11:02:26 INFO storage.BlockManager: Found block rdd_31_12 locally
+INFO,17/06/07 15:49:46 INFO storage.BlockManager: Found block rdd_2_7 locally
+INFO,17/06/08 20:24:00 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10162
+INFO,17/06/09 17:28:28 INFO storage.BlockManager: Found block rdd_4731_28 locally

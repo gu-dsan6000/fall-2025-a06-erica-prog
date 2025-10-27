@@ -1,0 +1,7 @@
+Environment: CLUSTER
+Total log lines processed: 33,236,604
+Lines with log levels: 27,410,336
+
+INFO  :   27,389,482 ( 99.92%)
+WARN  :        9,595 (  0.04%)
+ERROR :       11,259 (  0.04%)

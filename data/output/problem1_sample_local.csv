@@ -1,0 +1,11 @@
+log_level,log_entry
+INFO,17/03/29 10:03:17 INFO rdd.HadoopRDD: Input split: hdfs://10.10.34.11:9000/pjhe/input/orderHDFSseq.txt:4463499+1487833
+INFO,17/03/29 10:03:18 INFO executor.Executor: Finished task 9.0 in stage 1.0 (TID 10). 2653 bytes result sent to driver
+INFO,17/03/29 10:03:22 INFO executor.Executor: Finished task 12.0 in stage 3.0 (TID 53). 1129 bytes result sent to driver
+INFO,"17/03/29 10:04:58 INFO storage.MemoryStore: Block rdd_9_10 stored as values in memory (estimated size 4.1 MB, free 45.3 MB)"
+INFO,17/03/29 10:03:18 INFO rdd.HadoopRDD: Input split: hdfs://10.10.34.11:9000/pjhe/input/orderHDFSseq.txt:28268827+1487834
+INFO,17/03/29 10:03:25 INFO storage.BlockManager: Found block rdd_9_12 locally
+INFO,17/03/29 10:11:19 INFO storage.ShuffleBlockFetcherIterator: Started 2 remote fetches in 2 ms
+INFO,17/03/29 10:04:57 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 42
+INFO,17/03/29 10:11:17 INFO storage.ShuffleBlockFetcherIterator: Getting 0 non-empty blocks out of 20 blocks
+INFO,"17/03/29 10:03:19 INFO storage.MemoryStore: Block rdd_2_19 stored as bytes in memory (estimated size 4.8 MB, free 38.3 MB)"
